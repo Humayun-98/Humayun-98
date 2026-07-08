@@ -59,7 +59,7 @@ What ties all of this together is a simple goal: **build things that work outsid
 
 ### 🚀 Projects
 
-**🕸️ [Whisky Exchange Scraper](#)**
+**🕸️ [Whisky Exchange Scraper](https://github.com/Humayun-98/Whiskey-Exchange-Scraper)**
 A production-grade web scraping pipeline built with Scrapy and Playwright to extract structured product data at scale, with built-in handling for dynamic content and anti-bot measures.
 
 **🤖 [AI Personalization & Monitoring Platform](https://github.com/Humayun-98/AI-Personalization-Pipeline)**
