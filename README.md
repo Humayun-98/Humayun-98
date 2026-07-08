@@ -62,10 +62,10 @@ What ties all of this together is a simple goal: **build things that work outsid
 **🕸️ [Whisky Exchange Scraper](#)**
 A production-grade web scraping pipeline built with Scrapy and Playwright to extract structured product data at scale, with built-in handling for dynamic content and anti-bot measures.
 
-**🤖 [AI Personalization & Monitoring Platform](#)**
+**🤖 [AI Personalization & Monitoring Platform](https://github.com/Humayun-98/AI-Personalization-Pipeline)**
 An end-to-end system combining FastAPI, Hugging Face models, and n8n automation to deliver personalized recommendations, with real-time dashboards for tracking model performance.
 
-**📊 [Student Performance Data Pipeline](#)**
+**📊 [Student Performance Data Pipeline](https://github.com/Humayun-98/Student-Grade-Analyzer)**
 A complete data pipeline project covering ingestion, cleaning, transformation, and analysis of student performance data, built with Python and tested end-to-end.
 
 *(Replace the `#` links above with your actual repository URLs once pushed.)*
