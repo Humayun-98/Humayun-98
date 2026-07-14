@@ -68,7 +68,6 @@ An end-to-end system combining FastAPI, Hugging Face models, and n8n automation 
 **📊 [Student Performance Data Pipeline](https://github.com/Humayun-98/Student-Grade-Analyzer)**
 A complete data pipeline project covering ingestion, cleaning, transformation, and analysis of student performance data, built with Python and tested end-to-end.
 
-*(Replace the `#` links above with your actual repository URLs once pushed.)*
 
 ---
 
